@@ -1,7 +1,7 @@
 /* This is a helper library to make reading files easier
 
 Shubham Das
-11/1/2023 
+11/15/2023 
 */
 
 #include <stdlib.h>
